@@ -14,7 +14,7 @@ User : samer
 password : 7845
 ```
 ____________________________________________________________
-[Youtube] (https://www.youtube.com/channel/UC_xa8uyxf9MXW12FaxP7zaA) -- Learn how to use
+[Youtube](https://www.youtube.com/channel/UC_xa8uyxf9MXW12FaxP7zaA) - Learn how to use
 
 ____________________________________________________________
 <img src="https://cdn.discordapp.com/attachments/880166379943260321/1067073561128341534/work1.jpg">
